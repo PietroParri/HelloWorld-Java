@@ -2,7 +2,7 @@
 <p align="center">
 <img loading="lazy" src="https://img.shields.io/badge/status-done-blue"/>
 </p>
-<p align="center">Hello, World! Made in Java, using IntelliJ as IDE</p>
+<p align="center">Hello, World! Made in Java (17.0.10), using IntelliJ as IDE</p>
 
 # :hammer: Features
 
